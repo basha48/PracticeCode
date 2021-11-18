@@ -1,4 +1,4 @@
-  #! /bin/bash                       
+#! /bin/bash                       
    dice1=$(( ( RANDOM % 6) + 1 ))
 
 

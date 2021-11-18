@@ -1,4 +1,4 @@
-#! /bin/bash
+ #! /bin/bash
 
 arrayName=($(( ( RANDOM % 1000 )  + 1 )) $(( ( RANDOM % 1000 )  + 1 )) $(( ( RANDOM % 1000 )  + 1 )) $(( ( RANDOM % 1000 )  + 1 )) $(( ( RANDOM % 1000 )  + 1 )))
 

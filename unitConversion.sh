@@ -1,4 +1,4 @@
-       #! /bin/bash
+     #! /bin/bash
 
           while [ ch != 5 ]
           do
